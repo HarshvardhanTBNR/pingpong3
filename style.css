@@ -1,0 +1,45 @@
+body{
+background-size: cover;
+}
+
+.heading{
+    margin:0;
+    width:100%;
+    text-align: left;
+    font-size: 20px;
+    }
+    .heading button{
+    float:right;
+    border:7px solid white;
+    }
+    
+    
+    #start_btn, #status{
+    font-size: 100%;
+    color:chocolate;
+    font-weight: bold;
+    box-shadow:5px 5px 30px black;
+    border:3px solid red;
+    }
+
+    canvas{
+    border:10px solid white;
+    background-color: black;
+    box-shadow:1pox 1px 30px orange;
+    }
+
+    h4{
+        margin:0px;
+        background-color: darkolivegreen;
+        color:aqua;
+        line-height: 2;
+        }
+        
+        .modal-dialog{
+        width:80%;
+        }
+        
+        .instruction_image{
+        display:inline-block;
+        width:40%;
+        }
